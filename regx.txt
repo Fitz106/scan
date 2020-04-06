@@ -1,0 +1,11 @@
+.*password\s*=\s*.*
+.*pwd\s*=\s*.*
+.*ecret.*\s*=\s*.*
+.*ccess.*\s*=\s*.*
+.*password\s*:\s*.*
+.*pwd\s*:\s*.*
+.*ecret.*:\s*.*
+.*ccess.*:\s*.*
+.*setPassword\(\".*\"\).*
+.*setPwd\(\".*\"\).*
+
